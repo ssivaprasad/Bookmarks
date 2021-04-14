@@ -17,3 +17,37 @@ Java Heap Space vs. Stack Memory : https://stackify.com/java-heap-vs-stack/
 
 Generics:
   https://stackify.com/jvm-generics-type-erasure/
+  
+  
+  
+# Spring Core
+https://stackabuse.com/spring-annotations-core-framework-annotations/  
+https://www.amitph.com/spring/  
+https://stackabuse.com/the-value-annotation-in-spring/  
+https://stackabuse.com/reading-and-writing-yaml-files-in-java-with-jackson/  
+
+
+# Spring Boot
+https://www.amitph.com/spring/  
+https://springbootdev.com/category/spring-boot/ 
+https://stackabuse.com/monitoring-with-spring-boot-actuator/  
+https://stackabuse.com/uploading-files-with-spring-boot/  
+https://stackabuse.com/spring-boot-profiles-for-dev-and-prod-environments/  
+https://stackabuse.com/spring-boot-configuring-properties/  
+https://stackabuse.com/dockerizing-a-spring-boot-application/  
+https://stackabuse.com/how-to-test-a-spring-boot-application/  
+
+
+
+# Spring REST
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api  
+https://springbootdev.com/category/spring-rest/  
+https://springbootdev.com/category/spring-mvc/  
+https://stackabuse.com/controller-and-restcontroller-annotations-in-spring-boot/  
+https://stackabuse.com/build-a-spring-boot-rest-api-with-java-full-guide/  
+https://stackabuse.com/get-http-post-body-in-spring/  
+https://stackabuse.com/spring-annotations-requestmapping-and-its-variants/  
+https://stackabuse.com/how-to-send-http-requests-in-java/  
+https://stackabuse.com/java-rest-api-documentation-with-swagger2/  
+
+
