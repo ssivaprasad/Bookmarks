@@ -1,3 +1,6 @@
+# Mapstruct
+https://stackabuse.com/guide-to-mapstruct-in-java-advanced-mapping-library/#mapstruct
+
 # Logging
 https://stackify.com/log4j-guide-dotnet-logging/  
 https://stackify.com/log4j-guide-dotnet-logging/  
