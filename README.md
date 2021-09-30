@@ -1,7 +1,14 @@
-# Mapstruct
+### Testing
+https://www.softwaretestinghelp.com/mockito-tutorial/
+https://rieckpil.de/guide-to-testing-with-spring-boot-starter-test/
+https://howtodoinjava.com/spring-boot2/testing/testing-support/
+https://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+https://www.springboottutorial.com/integration-testing-for-spring-boot-rest-services
+
+### Mapstruct
 https://stackabuse.com/guide-to-mapstruct-in-java-advanced-mapping-library/#mapstruct
 
-# Logging
+### Logging
 https://stackify.com/log4j-guide-dotnet-logging/  
 https://stackify.com/log4j-guide-dotnet-logging/  
 https://stackify.com/9-logging-sins-java/  
@@ -11,11 +18,11 @@ https://stackify.com/logging-java/
 https://stackify.com/logging-logback/  
 https://stackify.com/java-logs-types/  
 
-# Design Principles
+### Design Principles
 SOLID Design Principles Explained: https://stackify.com/solid-design-open-closed-principle/
 
 
-# Java
+### Java
 Java Heap Space vs. Stack Memory : https://stackify.com/java-heap-vs-stack/
 
 Generics:
